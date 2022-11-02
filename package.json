@@ -1,0 +1,19 @@
+{
+  "name": "json2csv-scripts",
+  "version": "1.0.0",
+  "description": "For alex",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emolchanov/json2csv-scripts.git"
+  },
+  "author": "Eugene A. Molchanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emolchanov/json2csv-scripts/issues"
+  },
+  "homepage": "https://github.com/emolchanov/json2csv-scripts#readme"
+}
